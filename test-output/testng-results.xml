@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[s]]>
+    </line>
+    <line>
+      <![CDATA[s1]]>
+    </line>
+    <line>
+      <![CDATA[s]]>
+    </line>
+    <line>
+      <![CDATA[s1]]>
+    </line>
+    <line>
+      <![CDATA[Awadhesh]]>
+    </line>
+    <line>
+      <![CDATA[Pratibha]]>
+    </line>
+    <line>
+      <![CDATA[Awadhesh]]>
+    </line>
+    <line>
+      <![CDATA[Pratibha]]>
+    </line>
+    <line>
+      <![CDATA[String1]]>
+    </line>
+    <line>
+      <![CDATA[String2]]>
+    </line>
+    <line>
+      <![CDATA[String1]]>
+    </line>
+    <line>
+      <![CDATA[String2]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67" started-at="2022-10-12T17:19:53 IST" finished-at="2022-10-12T17:19:53 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67" started-at="2022-10-12T17:19:53 IST" finished-at="2022-10-12T17:19:53 IST">
+      <class name="testNG.Test03">
+        <test-method status="PASS" signature="demo()[pri:-2, instance:testNG.Test03@3b088d51]" name="demo" duration-ms="7" started-at="2022-10-12T17:19:53 IST" finished-at="2022-10-12T17:19:53 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[s]]>
+            </line>
+            <line>
+              <![CDATA[s1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="demo()[pri:-2, instance:testNG.Test03@3b088d51]" name="demo" duration-ms="1" started-at="2022-10-12T17:19:53 IST" finished-at="2022-10-12T17:19:53 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[s]]>
+            </line>
+            <line>
+              <![CDATA[s1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="demo1()[pri:-1, instance:testNG.Test03@3b088d51]" name="demo1" duration-ms="3" started-at="2022-10-12T17:19:53 IST" finished-at="2022-10-12T17:19:53 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Awadhesh]]>
+            </line>
+            <line>
+              <![CDATA[Pratibha]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="demo1()[pri:-1, instance:testNG.Test03@3b088d51]" name="demo1" duration-ms="3" started-at="2022-10-12T17:19:53 IST" finished-at="2022-10-12T17:19:53 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[Awadhesh]]>
+            </line>
+            <line>
+              <![CDATA[Pratibha]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo1 -->
+        <test-method status="PASS" signature="demo2()[pri:0, instance:testNG.Test03@3b088d51]" name="demo2" duration-ms="3" started-at="2022-10-12T17:19:53 IST" finished-at="2022-10-12T17:19:53 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[String1]]>
+            </line>
+            <line>
+              <![CDATA[String2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+        <test-method status="PASS" signature="demo2()[pri:0, instance:testNG.Test03@3b088d51]" name="demo2" duration-ms="1" started-at="2022-10-12T17:19:53 IST" finished-at="2022-10-12T17:19:53 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[String1]]>
+            </line>
+            <line>
+              <![CDATA[String2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- testNG.Test03 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
